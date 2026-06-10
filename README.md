@@ -3,6 +3,8 @@ AI-powered Telegram bot for product price tracking, history analysis, and smart 
 
 <div align="center">
 
+<img src="./assets/logo.png" width="200">
+
 **Developed by Tech Source**
 
 *"We don't just teach technology, we write the future."*
